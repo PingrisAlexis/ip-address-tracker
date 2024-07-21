@@ -47,7 +47,7 @@ ul {
     justify-content: center;
     align-items: center;
     top: 14rem;
-    width: 33rem;
+    width: 30rem;
   }
   li {
     padding: 1.5rem;

@@ -63,11 +63,9 @@ div {
   height: 20rem !important;
   position: relative;
   top: 3rem;
-  @media (max-width: 1050px) {
-    width: 33rem;
-  }
   @media (max-width: 950px) {
     top: 11rem;
+    width: 30rem;
   }
   input {
     height: 100%;
