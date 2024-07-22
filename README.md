@@ -1,6 +1,6 @@
 # IP Address Tracker
 
-## ip geolocation tool
+## IP geolocalisation tool
 
 ### Installation:
 
